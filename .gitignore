@@ -21,3 +21,7 @@
 /yarn-error.log
 
 .byebug_history
+
+# Игнорировать файлы Spring
+/spring/*.pid
+
