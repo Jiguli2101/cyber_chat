@@ -16,6 +16,16 @@
   <component name="PropertiesComponent">
     <property name="DBE.Init.BalloonShown" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="747" y="297" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581352596385">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state x="747" y="297" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1012/1920.0.1680.1050@0.27.1920.1012" timestamp="1581352596385" />
+    <state x="620" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1581352589253">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state x="620" y="366" key="com.intellij.ide.util.TipDialog/0.27.1920.1012/1920.0.1680.1050@0.27.1920.1012" timestamp="1581352589253" />
   </component>
 </project>
